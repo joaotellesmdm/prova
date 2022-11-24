@@ -3,16 +3,13 @@ body {
 }
 
 #messi {
+    width: 200%;
+}
+
+#messi2 {
     width: 100%;
 }
 
-#messi 2 {
-    width: 100%;
-}
-
-#messi {
-    text-align: center;
-}
 
 
 h1 { 
